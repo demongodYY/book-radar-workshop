@@ -1,0 +1,4 @@
+openai
+langchain
+pytest
+azure-identity
