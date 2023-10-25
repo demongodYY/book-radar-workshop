@@ -2,3 +2,4 @@ openai
 langchain
 pytest
 azure-identity
+langchain_experimental
